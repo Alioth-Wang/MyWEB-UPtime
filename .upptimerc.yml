@@ -4,7 +4,7 @@ repo: MyWEB-UPtime # The name of this repository
 
 sites:
   - name: MyBlog
-    url: https://www.realism.world
+    url: https://realism.world
   - name: Hytron
     url: https://idc.hytron.io
 
