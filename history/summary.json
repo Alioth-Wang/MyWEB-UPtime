@@ -5,21 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/realism.world.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 94,
-    "timeDay": 94,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94,
-    "dailyMinutesDown": {
-      "2023-06-24": 610,
-      "2023-06-23": 1440,
-      "2023-06-22": 154
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 101,
+    "timeDay": 101,
+    "timeWeek": 101,
+    "timeMonth": 101,
+    "timeYear": 101,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hytron",
@@ -32,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 693,
-    "timeWeek": 635,
-    "timeMonth": 635,
-    "timeYear": 635,
+    "time": 651,
+    "timeDay": 776,
+    "timeWeek": 651,
+    "timeMonth": 651,
+    "timeYear": 651,
     "dailyMinutesDown": {}
   }
 ]
