@@ -7,6 +7,8 @@ sites:
     url: https://realism.world
   - name: Hytron
     url: https://idc.hytron.io
+  - name: 玩具Sneaky
+    url: https://na1.node.sneakygames.net:30183
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
