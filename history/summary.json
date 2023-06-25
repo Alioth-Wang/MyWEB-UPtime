@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "time": 140,
+    "timeDay": 163,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 776,
-    "timeWeek": 651,
-    "timeMonth": 651,
-    "timeYear": 651,
+    "time": 677,
+    "timeDay": 782,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "玩具Sneaky",
+    "url": "https://na1.node.sneakygames.net:30183",
+    "icon": "https://icons.duckduckgo.com/ip3/na1.node.sneakygames.net.ico",
+    "slug": "sneaky",
+    "status": "down",
+    "uptime": "28.21%",
+    "uptimeDay": "28.21%",
+    "uptimeWeek": "28.21%",
+    "uptimeMonth": "28.21%",
+    "uptimeYear": "28.21%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-25": 0
+    }
   }
 ]
