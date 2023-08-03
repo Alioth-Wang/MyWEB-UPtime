@@ -4,18 +4,20 @@
     "url": "https://realism.world",
     "icon": "https://icons.duckduckgo.com/ip3/realism.world.ico",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 301,
-    "timeWeek": 404,
-    "timeMonth": 335,
-    "timeYear": 319,
-    "dailyMinutesDown": {}
+    "time": 318,
+    "timeDay": 292,
+    "timeWeek": 388,
+    "timeMonth": 334,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2023-08-03": 0
+    }
   },
   {
     "name": "Hytron",
