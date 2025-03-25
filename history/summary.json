@@ -4,7 +4,7 @@
     "url": "https://realism.world",
     "icon": "https://icons.duckduckgo.com/ip3/realism.world.ico",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "48.97%",
     "uptimeDay": "88.40%",
     "uptimeWeek": "98.34%",
@@ -151,7 +151,7 @@
     "timeMonth": 193,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-03-25": 325,
+      "2025-03-25": 340,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
