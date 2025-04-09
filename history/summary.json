@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/realism.world.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "50.04%",
-    "uptimeDay": "94.53%",
+    "uptime": "50.09%",
+    "uptimeDay": "96.69%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "98.87%",
-    "uptimeYear": "78.57%",
-    "time": 1147,
-    "timeDay": 1053,
-    "timeWeek": 1242,
-    "timeMonth": 1716,
-    "timeYear": 1147,
+    "uptimeYear": "78.77%",
+    "time": 1146,
+    "timeDay": 752,
+    "timeWeek": 1249,
+    "timeMonth": 1734,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2025-04-08": 48,
       "2025-04-07": 31,
@@ -124,8 +124,7 @@
       "2024-04-13": 1440,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
-      "2024-04-10": 1440,
-      "2024-04-09": 1440
+      "2024-04-10": 1440
     }
   },
   {
@@ -134,18 +133,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/idc.hytron.io.ico",
     "slug": "hytron",
     "status": "down",
-    "uptime": "37.45%",
+    "uptime": "37.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 276,
-    "timeDay": 128,
-    "timeWeek": 163,
-    "timeMonth": 165,
+    "time": 275,
+    "timeDay": 123,
+    "timeWeek": 162,
+    "timeMonth": 166,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-04-08": 509,
+      "2025-04-09": 87,
+      "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -508,8 +508,7 @@
       "2024-04-13": 1440,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
-      "2024-04-10": 1440,
-      "2024-04-09": 1440
+      "2024-04-10": 1440
     }
   }
 ]
