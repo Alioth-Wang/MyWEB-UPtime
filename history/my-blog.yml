@@ -1,7 +1,7 @@
 url: https://realism.world
-status: up
-code: 200
-responseTime: 1397
-lastUpdated: 2025-05-26T01:53:53.637Z
+status: down
+code: 429
+responseTime: 557
+lastUpdated: 2025-05-26T06:29:53.023Z
 startTime: 2023-06-22T21:26:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
