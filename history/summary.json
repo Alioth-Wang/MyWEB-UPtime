@@ -4,18 +4,19 @@
     "url": "https://realism.world",
     "icon": "https://icons.duckduckgo.com/ip3/realism.world.ico",
     "slug": "my-blog",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "97.91%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "99.44%",
     "time": 1168,
-    "timeDay": 1395,
-    "timeWeek": 1288,
-    "timeMonth": 1253,
-    "timeYear": 1236,
+    "timeDay": 1210,
+    "timeWeek": 1263,
+    "timeMonth": 1248,
+    "timeYear": 1235,
     "dailyMinutesDown": {
+      "2025-08-02": 30,
       "2025-08-01": 26,
       "2025-07-31": 20,
       "2025-07-30": 25,
@@ -76,7 +77,7 @@
       "2025-05-18": 68,
       "2025-05-17": 18,
       "2025-05-16": 55,
-      "2025-05-15": 56
+      "2025-05-15": 33
     }
   },
   {
@@ -96,7 +97,7 @@
     "timeMonth": 189,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-08-02": 540,
+      "2025-08-02": 570,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
