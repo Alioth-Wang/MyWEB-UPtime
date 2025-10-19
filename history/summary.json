@@ -6,17 +6,16 @@
     "slug": "my-blog",
     "status": "up",
     "uptime": "92.88%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "36.25%",
-    "uptimeYear": "83.46%",
-    "time": 1198,
-    "timeDay": 323,
-    "timeWeek": 244,
-    "timeMonth": 250,
-    "timeYear": 1224,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "38.46%",
+    "uptimeYear": "83.44%",
+    "time": 1196,
+    "timeDay": 421,
+    "timeWeek": 268,
+    "timeMonth": 267,
+    "timeYear": 1223,
     "dailyMinutesDown": {
-      "2025-10-18": 9,
       "2025-10-17": 34,
       "2025-10-13": 18,
       "2025-10-08": 30,
@@ -134,7 +133,8 @@
       "2025-05-30": 17,
       "2025-05-28": 55,
       "2025-05-27": 53,
-      "2025-05-26": 59
+      "2025-05-26": 173,
+      "2025-05-25": 2
     }
   },
   {
@@ -143,18 +143,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/idc.hytron.io.ico",
     "slug": "hytron",
     "status": "down",
-    "uptime": "28.93%",
+    "uptime": "28.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 188,
-    "timeDay": 89,
-    "timeWeek": 197,
-    "timeMonth": 206,
+    "timeDay": 235,
+    "timeWeek": 199,
+    "timeMonth": 205,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-10-18": 589,
+      "2025-10-19": 105,
+      "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -517,8 +518,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440
+      "2024-10-20": 1440
     }
   }
 ]
