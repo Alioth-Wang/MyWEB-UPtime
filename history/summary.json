@@ -4,11 +4,11 @@
     "url": "https://realism.world",
     "icon": "https://icons.duckduckgo.com/ip3/realism.world.ico",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "93.02%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "85.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "85.28%",
     "uptimeYear": "83.46%",
     "time": 1178,
     "timeDay": 158,
@@ -16,7 +16,6 @@
     "timeMonth": 259,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2025-11-03": 9,
       "2025-10-26": 19,
       "2025-10-25": 20,
       "2025-10-24": 17,
@@ -136,7 +135,7 @@
       "2025-05-31": 61,
       "2025-05-30": 17,
       "2025-05-28": 55,
-      "2025-05-27": 36
+      "2025-05-27": 53
     }
   },
   {
@@ -145,7 +144,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/idc.hytron.io.ico",
     "slug": "hytron",
     "status": "down",
-    "uptime": "28.40%",
+    "uptime": "28.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -156,7 +155,7 @@
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-11-03": 470,
+      "2025-11-03": 514,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
