@@ -10,10 +10,10 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "83.49%",
-    "time": 1055,
-    "timeDay": 578,
-    "timeWeek": 382,
-    "timeMonth": 451,
+    "time": 1054,
+    "timeDay": 173,
+    "timeWeek": 350,
+    "timeMonth": 439,
     "timeYear": 1006,
     "dailyMinutesDown": {
       "2026-01-11": 29,
@@ -151,18 +151,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/idc.hytron.io.ico",
     "slug": "hytron",
     "status": "down",
-    "uptime": "26.16%",
+    "uptime": "26.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 195,
-    "timeDay": 128,
-    "timeWeek": 218,
-    "timeMonth": 210,
+    "timeDay": 300,
+    "timeWeek": 215,
+    "timeMonth": 216,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2026-01-16": 112,
+      "2026-01-17": 106,
+      "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
@@ -525,8 +526,7 @@
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
-      "2025-01-18": 1440,
-      "2025-01-17": 1440
+      "2025-01-18": 1440
     }
   }
 ]
