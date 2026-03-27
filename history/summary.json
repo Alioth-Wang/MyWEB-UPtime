@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/realism.world.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "93.99%",
+    "uptime": "94.00%",
     "uptimeDay": "97.89%",
     "uptimeWeek": "96.83%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "83.41%",
-    "time": 923,
-    "timeDay": 194,
-    "timeWeek": 179,
-    "timeMonth": 179,
-    "timeYear": 864,
+    "time": 922,
+    "timeDay": 80,
+    "timeWeek": 167,
+    "timeMonth": 178,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2026-03-26": 30,
       "2026-03-21": 289,
@@ -162,12 +162,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 195,
-    "timeDay": 112,
-    "timeWeek": 198,
-    "timeMonth": 202,
-    "timeYear": 197,
+    "timeDay": 242,
+    "timeWeek": 176,
+    "timeMonth": 207,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2026-03-26": 1308,
+      "2026-03-27": 152,
+      "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
@@ -530,8 +531,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   }
 ]
