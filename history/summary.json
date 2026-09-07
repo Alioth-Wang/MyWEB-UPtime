@@ -4,16 +4,16 @@
     "url": "https://realism.world",
     "icon": "https://icons.duckduckgo.com/ip3/realism.world.ico",
     "slug": "my-blog",
-    "status": "down",
-    "uptime": "94.13%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.06%",
+    "status": "up",
+    "uptime": "94.12%",
+    "uptimeDay": "91.65%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "89.24%",
     "time": 475,
-    "timeDay": 94,
-    "timeWeek": 200,
-    "timeMonth": 259,
+    "timeDay": 194,
+    "timeWeek": 212,
+    "timeMonth": 262,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2025-10-07": 1062,
@@ -96,7 +96,7 @@
       "2026-08-14": 105,
       "2026-08-22": 19,
       "2026-08-29": 285,
-      "2026-09-07": 0
+      "2026-09-07": 120
     }
   },
   {
@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/idc.hytron.io.ico",
     "slug": "hytron",
     "status": "down",
-    "uptime": "20.93%",
+    "uptime": "20.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -116,7 +116,7 @@
     "timeMonth": 72,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-09-07": 1309,
+      "2026-09-07": 1429,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
